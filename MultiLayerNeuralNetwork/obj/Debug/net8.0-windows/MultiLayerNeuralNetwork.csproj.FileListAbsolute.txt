@@ -1,0 +1,16 @@
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\bin\Debug\net8.0-windows\MultiLayerNeuralNetwork.exe
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\bin\Debug\net8.0-windows\MultiLayerNeuralNetwork.deps.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\bin\Debug\net8.0-windows\MultiLayerNeuralNetwork.runtimeconfig.json
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\bin\Debug\net8.0-windows\MultiLayerNeuralNetwork.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\bin\Debug\net8.0-windows\MultiLayerNeuralNetwork.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.Form1.resources
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.AssemblyInfo.cs
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\refint\MultiLayerNeuralNetwork.dll
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.pdb
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\MultiLayerNeuralNetwork.genruntimeconfig.cache
+C:\Users\yigit\Desktop\VS_OpenGL\Projects\MultiLayerNeuralNetwork\MultiLayerNeuralNetwork\obj\Debug\net8.0-windows\ref\MultiLayerNeuralNetwork.dll
